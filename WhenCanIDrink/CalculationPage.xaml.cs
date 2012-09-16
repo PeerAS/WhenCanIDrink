@@ -19,5 +19,10 @@ namespace WhenCanIDrink
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            this.NavigationService.Navigate(new Uri("/ResultPage.xaml", UriKind.Relative));
+        }
     }
 }
