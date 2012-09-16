@@ -1,7 +1,19 @@
 ﻿Ideas
 
+Add different drinks together (beer, wine, spirits)
+Example:
+Drank 3 beers and one glass of wine
+
 Resources
 
 http://silverlight.codeplex.com/releases/view/60291
 http://www.windowsphonegeek.com/articles/listpicker-for-wp7-in-depth
 http://en.wikipedia.org/wiki/Blood_alcohol_content
+
+Problem areas:
+
+Legal issues?
+Calculate blood alcohol level (Calculate current and then the decrease over time)
+Design (ask Valseth maybe? For percentage of profit ofc)
+Localization (differences in blood alcohol level limit, time (24h/12h))
+Prizing (1$-2$)

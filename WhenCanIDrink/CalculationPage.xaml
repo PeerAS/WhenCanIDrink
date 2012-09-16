@@ -28,9 +28,11 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Button Content="When Can I Drive?" Height="134" HorizontalAlignment="Left" Margin="66,365,0,0" Name="button1" VerticalAlignment="Top" Width="332" Click="button1_Click" />
-            <TextBox Height="80" HorizontalAlignment="Left" Margin="66,231,0,0" Name="textBox1" Text="TextBox" VerticalAlignment="Top" Width="332" />
-            <ListBox Height="100" HorizontalAlignment="Left" Margin="66,72,0,0" Name="listBox1" VerticalAlignment="Top" Width="332" />
+            <Button Content="When Can I Drive?" Height="134" HorizontalAlignment="Left" Margin="66,439,0,0" Name="button1" VerticalAlignment="Top" Width="332" Click="button1_Click" />
+            <TextBox Height="80" HorizontalAlignment="Left" Margin="66,0,0,204" Name="textBox1" Text="TextBox" VerticalAlignment="Bottom" Width="332" />
+            <TextBlock Height="30" HorizontalAlignment="Center" Name="textBlock1" Text="Weight" VerticalAlignment="Center" Margin="194,288,198,290" />
+            <TextBox Height="80" HorizontalAlignment="Left" Margin="66,179,0,0" Name="textBox2" Text="TextBox" VerticalAlignment="Top" Width="332" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="194,143,0,0" Name="textBlock2" Text="TextBlock" VerticalAlignment="Top" />
         </Grid>
     </Grid>
  
